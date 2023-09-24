@@ -1,6 +1,6 @@
 ## Hi, I am Hieronymus Kurniawan 🤘🏾
 
-Fresh gradute at Sanata Dharma Univeristy. I actually in love with Laravel and Flutter development.
+Fresh graduate at Sanata Dharma University. I actually in love with Laravel and Flutter development.
 
 ### Social Networks
 
