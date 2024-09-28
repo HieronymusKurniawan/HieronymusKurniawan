@@ -1,6 +1,6 @@
 ## Hi, I am Hieronymus Kurniawan 🤘🏾
 
-Fresh graduate at Sanata Dharma University. I actually in love with Laravel and Flutter development.
+Fresh graduate at Sanata Dharma University. I actually in love with Java Spring Boot development.
 
 ### Social Networks
 
@@ -11,7 +11,6 @@ Fresh graduate at Sanata Dharma University. I actually in love with Laravel and 
 
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring&color=0D1117&style=flat-square)
 ![React](https://img.shields.io/badge/-React-000?&logo=React&color=0D1117&style=flat-square)
-![React Native](https://img.shields.io/badge/-React_Native-000?&logo=React&logoColor=C57AEB&color=0D1117&style=flat-square)
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-000?&logo=Postgresql&logoColor=0064A5&color=0D1117&style=flat-square)
 
 ### Technologies and Frameworks
