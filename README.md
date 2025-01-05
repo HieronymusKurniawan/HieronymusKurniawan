@@ -9,6 +9,7 @@ Fresh graduate at Sanata Dharma University. I actually in love with Java Spring 
 
 ### Currently Studying
 
+![Golang](https://img.shields.io/badge/Go-000?logo=Go&color=0D1117&style=flat-square)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring&color=0D1117&style=flat-square)
 ![React](https://img.shields.io/badge/-React-000?&logo=React&color=0D1117&style=flat-square)
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-000?&logo=Postgresql&logoColor=0064A5&color=0D1117&style=flat-square)
