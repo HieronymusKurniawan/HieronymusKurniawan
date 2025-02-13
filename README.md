@@ -1,6 +1,6 @@
 ## Hi, I am Hieronymus Kurniawan 🤘🏾
 
-Fresh graduate at Sanata Dharma University. I actually in love with Java Spring Boot development.
+Programming Addict. I actually in love with Java Spring Boot development.
 
 ### Social Networks
 
@@ -10,12 +10,11 @@ Fresh graduate at Sanata Dharma University. I actually in love with Java Spring 
 ### Currently Studying
 
 ![Golang](https://img.shields.io/badge/Go-000?logo=Go&color=0D1117&style=flat-square)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring&color=0D1117&style=flat-square)
 ![React](https://img.shields.io/badge/-React-000?&logo=React&color=0D1117&style=flat-square)
-![Postgres](https://img.shields.io/badge/-PostgreSQL-000?&logo=Postgresql&logoColor=0064A5&color=0D1117&style=flat-square)
 
 ### Technologies and Frameworks
 
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring&color=0D1117&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git&color=0D1117&style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=white&color=0D1117&style=flat-square)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart&color=0D1117&style=flat-square&logoColor=007396)
@@ -30,6 +29,7 @@ Fresh graduate at Sanata Dharma University. I actually in love with Java Spring 
 ![NPM](https://img.shields.io/badge/-NPM-000?&logo=NPM&color=0D1117&style=flat-square)
 
 ### Databases 
+![Postgres](https://img.shields.io/badge/-PostgreSQL-000?&logo=Postgresql&logoColor=0064A5&color=0D1117&style=flat-square)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&color=0D1117&style=flat-square)
 ![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=Oracle&logoColor=FF0000&color=0D1117&style=flat-square)
 
