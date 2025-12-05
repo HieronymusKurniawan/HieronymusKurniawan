@@ -1,6 +1,6 @@
 ## Hi, I am Hieronymus Kurniawan 🤘🏾
 
-Programming Addict. I actually in love with Java Spring Boot development.
+Ngoding all the way.
 
 ### Social Networks
 
