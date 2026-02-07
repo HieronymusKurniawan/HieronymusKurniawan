@@ -4,8 +4,7 @@ Ngoding all the way.
 
 ### Social Networks
 
-[![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=x&color=0D1117&style=flat-square)](https://twitter.com/HieronymusKrnwn)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=2867B2&color=0D1117&style=flat-square)](https://www.linkedin.com/in/hieronymus-emilianus-kurniawan-a5294622b/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=2867B2&color=0D1117&style=flat-square)](https://www.linkedin.com/in/hieronymus-emilianus-kurniawan/)
 
 ### Currently Studying
 
